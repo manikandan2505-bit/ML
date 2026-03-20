@@ -2,3 +2,5 @@ This is just a normal demo data science project to predict home prices in Bangal
 ***I HAVE NOT DEPLOYED THIS MODEL TO PRODUCTION YET***
 This project is just for gaining experience on ML.
 So Feel free to view the contents :)
+Thanks to CodeBasics channel for the valuable lessons:
+https://www.youtube.com/channel/UCh9nVJoWXmFb7sLApWGcLPQ
